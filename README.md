@@ -20,7 +20,7 @@ First of all bars will be generated randomly and then those will be sorted based
 
 
 
-##now listen up 
+#now listen up 
 
 open command prompt (type cmd in search and click open as administrator and then click yes)
 
